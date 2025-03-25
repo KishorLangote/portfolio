@@ -93,7 +93,7 @@ const Projects = () => {
                 </div>
                 <div className="d-flex justify-content-center align-items-center gap-3">
                   <Link
-                    to="https://github.com/KishorLangote/frontend-art-work"
+                    to="https://github.com/KishorLangote/artWork"
                     className="btn btn-outline-info fw-bold"
                   >
                     <FaGithub className="fs-4" /> GitHub
