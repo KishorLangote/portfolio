@@ -60,7 +60,7 @@ const Projects = () => {
                   </Link>
                   <Link
                     to="https://free-breathing-library.vercel.app/"
-                    className="btn btn-outline-info fw-bold"
+                    className="btn btn-outline-info fw-bold "
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
                   </Link>
