@@ -65,7 +65,6 @@ const Skills = () => {
                   <li>VS Code</li>
                   <li>Postman</li>
                   <li>Vercel</li>
-                  <li>GitHub</li>
                   <li>MongoDB Compass</li>
                 </ul>
               </div>

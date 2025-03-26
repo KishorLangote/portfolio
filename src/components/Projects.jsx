@@ -99,7 +99,7 @@ const Projects = () => {
                     <FaGithub className="fs-4" /> GitHub
                   </Link>
                   <Link
-                    to="https://frontend-art-work.vercel.app/"
+                    to="https://art-work-showcase.vercel.app/"
                     className="btn btn-outline-info fw-bold"
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
