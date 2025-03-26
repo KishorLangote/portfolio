@@ -1,5 +1,6 @@
 import { TiStarOutline } from "react-icons/ti";
 import { ImMinus } from "react-icons/im";
+import Kishor_Langote from "../assets/Kishor_Langote_Resume.pdf"
 
 const Home = () => {
   return (
@@ -31,9 +32,9 @@ const Home = () => {
           <ImMinus />
           <ImMinus />
           <h4 className="py-2">Frontend Developer</h4>
-          {/* <a href="#" className="btn btn-outline-light mt-3 ">
-            Check Resume
-          </a> */}
+          <a href={Kishor_Langote} target="_blank" className="btn btn-outline-light mt-3 mb-4 p-2 fw-semibold">
+          Download Resume
+          </a>
         </section>
         </div>
       </main>
