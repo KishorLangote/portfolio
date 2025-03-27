@@ -31,7 +31,7 @@ const Projects = () => {
             <div className="col-lg-5 col-md-6 col-sm-12 d-flex">
               <div className="card p-4 shadow w-100">
                 <img
-                  src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1743057430/FBL_IMAGE_vqjhph.png"
+                  src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1743057912/FBL_IMAGE1_ca8cx8.png"
                   className="img-fluid rounded"
                   style={{
                     objectFit: "contain",
