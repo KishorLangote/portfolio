@@ -42,7 +42,7 @@ const Projects = () => {
                 />
                 <div className="card-body">
                   <p className="mt-3 text-break">
-                    I am actively working on the Free Breathing Library app, a
+                    I am actively working on the Books E-commerce app, a
                     mission-driven initiative aimed at educating every child and
                     providing access to books across various topics. Our goal is
                     to bridge educational gaps, promote literacy, and make
