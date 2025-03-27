@@ -11,7 +11,7 @@ const Home = () => {
           <img
             src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1737519086/DSC_6704_j3if9a.jpg"
             className="img-fluid"
-            style={{ height: 200, borderRadius: "50%", objectFit: 'cover' }}
+            style={{ height: 250, borderRadius: "50%" }}
           />
         </section>
         <section className="container-fluid text-center py-2">
