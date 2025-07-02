@@ -35,6 +35,7 @@ const Skills = () => {
                   <li>React Js</li>
                   <li>JavaScript</li>
                   <li>Redux-Toolkit</li>
+                  <li>Tailwind CSS</li>
                   <li>Bootstrap</li>
                   <li>HTML</li>
                   <li>CSS</li>

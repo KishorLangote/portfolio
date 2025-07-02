@@ -31,7 +31,7 @@ const Home = () => {
           <ImMinus />
           <ImMinus />
           <ImMinus />
-          <h4 className="py-2">Frontend Developer</h4>
+          <h4 className="py-2">Full Stack Developer</h4>
           <a href={Kishor_Langote} target="_blank" className="btn btn-outline-light mt-3 mb-4 p-2 fw-semibold">
           Download Resume
           </a>
