@@ -25,12 +25,10 @@ const About = () => {
         <p className="fs-5">
           Hi Everyone, I am <strong>Kishor Langote</strong> from Pune, India. I
           am a <strong>Science graduate</strong> from Savitribai Phule Pune
-          University. Currently, I am learning <strong>Web Development</strong>,{" "}
-          <strong>Frontend Skills</strong>, <strong>Backend Skills</strong>, and
-          building projects in it.
+          University. Currently, I am learning <strong>Full Stack Web Development</strong>and building projects in it.
         </p>
 
-        <h3 className="fw-bold mt-4">Apart from Coding, I love:</h3>
+        <h3 className="fw-bold mt-4">Apart from Coding, I love</h3>
 
         <ul className="fs-5 mt-4">
           <li className="d-flex align-items-center justify-content-center gap-3 mb-3">
