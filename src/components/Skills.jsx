@@ -32,9 +32,8 @@ const Skills = () => {
               <div className="card-body">
                 <h4>FRONTEND</h4>
                 <ul>
-                  <li>React Js</li>
+                  <li>React.js</li>
                   <li>JavaScript</li>
-                  <li>Redux-Toolkit</li>
                   <li>Tailwind CSS</li>
                   <li>Bootstrap</li>
                   <li>HTML</li>
@@ -49,10 +48,10 @@ const Skills = () => {
               <div className="card-body">
                 <h4>BACKEND</h4>
                 <ul>
-                  <li>Node Js</li>
-                  <li>Express Js</li>
+                  <li>Node.js</li>
+                  <li>Express.js</li>
                   <li>MongoDB</li>
-                  <li>Rest API</li>
+                  <li>RESTful APIs</li>
                 </ul>
               </div>
             </div>
