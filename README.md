@@ -1,8 +1,8 @@
 # Portfolio
 Welcome to my portfolio! Below are some of the full-stack web applications I’ve built using the MERN stack. These projects demonstrate my skills in frontend and backend development, user authentication, API integration, and responsive design.
----
+
 ## Projects<br>
----
+
 ## 1. FreeBreathing 
 A full-stack Books E-commerce App where you can view all books. Users can explore a wide range of topics, request books, add or remove them from favorites and carts, and place orders at zero cost.
 
