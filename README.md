@@ -32,9 +32,7 @@ A full-stack Books E-commerce App where you can view all books. Users can explor
 ### Cart Page
   - Displays the user’s cart books, allows removing books from the cart, and enables users to place orders.
 
-
-
-- **Live Demo**: (https://free-breathing-library.vercel.app/) | GitHub: (https://github.com/KishorLangote/FreeBreathing)
+- **Links**: [Live Demo](https://free-breathing-library.vercel.app/) | [GitHub](https://github.com/KishorLangote/FreeBreathing)
 
 ---
 
@@ -55,7 +53,7 @@ A full-stack application that helps users manage daily tasks by creating, updati
   - User signup and login with JWT.
   - Protected routes for see the other users task and home.
 
-- **Live Demo**: (https://frontend-tasquee.vercel.app/login) | GitHub: (https://github.com/KishorLangote/Tasque)
+- **Links**: [Live Demo](https://frontend-tasquee.vercel.app/login) | [GitHub](https://github.com/KishorLangote/Tasque)
 
 ---
 
@@ -75,7 +73,7 @@ A full-stack application that helps users manage daily tasks by creating, updati
 ### Event Details Page
   - View full art event information including attached artist portfolios and artworks.
 
-- **Live Demo**: (https://art-work-showcase.vercel.app/) | GitHub: (https://github.com/KishorLangote/artWork)
+- **Links**: [Live Demo](https://art-work-showcase.vercel.app/) | [GitHub](https://github.com/KishorLangote/artWork)
 
 ---
 
