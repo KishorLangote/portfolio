@@ -77,7 +77,7 @@ const Projects = () => {
                 />
                 <div className="card-body">
                   <p className="mt-3 text-break">
-                    A full-stack Todo Management App that helps users create, view, update, and delete todos. It allows users to keep track of their daily goals or activities, mark them as completed & remove them once done. Built with React frontend, Express/Node, MongoDB database and JWT-based authentication.
+                    A full-stack Tasks Management App that helps users create, view, update, and delete Tasks. It allows users to keep track of their daily goals or activities, mark them as completed & remove them once done. Built with React frontend, Express/Node, MongoDB database and JWT-based authentication.
                   </p>
                 </div>
                 <div className="d-flex justify-content-center align-items-center gap-3">
