@@ -19,19 +19,19 @@ const Footer = () => {
             <div className="d-flex justify-content-evenly">
               <span>
                 {" "}
-                <a href="#skills" className="nav-link">
+                <a href="/#skills" className="nav-link">
                   <h5>SKILLS</h5>
                 </a>
               </span>
               <span>
                 {" "}
-                <a href="#projects" className="nav-link">
+                <a href="/#projects" className="nav-link">
                   <h5>PROJECTS</h5>
                 </a>
               </span>
               <span>
                 {" "}
-                <a href="#about" className="nav-link">
+                <a href="/#about" className="nav-link">
                   <h5>ABOUT</h5>
                 </a>
               </span>
