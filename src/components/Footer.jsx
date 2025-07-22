@@ -42,21 +42,21 @@ const Footer = () => {
             <div>
               <div className="mx-2">
                 <h5>AROUND THE WEB</h5>
-                <a href="https://github.com/KishorLangote">
+                <a href="https://github.com/KishorLangote" target="_blank">
                   <i
                     className="bi bi-github"
                     style={{ fontSize: "24px", color: "white", margin: "20px" }}
                   ></i>
                 </a>
 
-                <a href="https://www.linkedin.com/in/kishorlangote">
+                <a href="https://www.linkedin.com/in/kishorlangote" target="_blank">
                   <i
                     class="bi bi-linkedin"
                     style={{ fontSize: "24px", color: "white", margin: "20px" }}
                   ></i>
                 </a>
 
-                <a href="https://x.com/KishorLangote0">
+                <a href="https://x.com/KishorLangote0" target="_blank">
                   <i
                     className="bi bi-twitter-x"
                     style={{ fontSize: "24px", color: "white", margin: "20px" }}
