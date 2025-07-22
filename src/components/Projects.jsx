@@ -49,12 +49,14 @@ const Projects = () => {
                   <Link
                     to="https://github.com/KishorLangote/FreeBreathing"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <FaGithub className="fs-4" /> GitHub
                   </Link>
                   <Link
                     to="https://free-breathing-library.vercel.app/"
-                    className="btn btn-outline-info fw-bold "
+                    className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
                   </Link>
@@ -84,12 +86,14 @@ const Projects = () => {
                   <Link
                     to="https://github.com/KishorLangote/Tasque"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <FaGithub className="fs-4" /> GitHub
                   </Link>
                   <Link
                     to="https://frontend-tasquee.vercel.app/login"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
                   </Link>
@@ -118,12 +122,14 @@ const Projects = () => {
                   <Link
                     to="https://github.com/KishorLangote/artWork"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <FaGithub className="fs-4" /> GitHub
                   </Link>
                   <Link
                     to="https://art-work-showcase.vercel.app/"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
                   </Link>
@@ -152,12 +158,14 @@ const Projects = () => {
                   <Link
                     to="https://github.com/KishorLangote/forecastly"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <FaGithub className="fs-4" /> GitHub
                   </Link>
                   <Link
                     to="https://forecastly-app.vercel.app/"
                     className="btn btn-outline-info fw-bold"
+                    target="_blank"
                   >
                     <MdOutlineLiveTv className="fs-4" /> Live
                   </Link>
